@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/Prefab
+/Assets/Scene
+/Library
+/ProjectSettings
+/Temp
+/UserSettings
+/NeuralNetworkTutorial.sln
+/NeuralNetworkTutorial.csproj
+/Mutation_NeuralNetworkTutorial.sln
+/Assembly-CSharp.csproj
+/.vsconfig
